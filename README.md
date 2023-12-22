@@ -1,7 +1,7 @@
 # DKiS: Decay weight invertible image steganography with private key
 This repo is the official code for
 
-* **[DKiS: Decay weight invertible image steganography with private key](https://arxiv.org/abs/2311.18243)**
+* **DKiS: Decay weight invertible image steganography with private key**
 
 
 
@@ -31,7 +31,7 @@ This repo is the official code for
 
 
 ## Demo
-- Here we provide a [Demo](http://yanghang.site/hidekey/).
+- Here we provide a [Demo](http://47.94.105.69//hidekey/).
 
 - You can hide a secret image into a host image with private key in our Demo by clicking your mouse.
 
