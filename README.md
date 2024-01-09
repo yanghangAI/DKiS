@@ -31,7 +31,7 @@ This repo is the official code for
 
 
 ## Demo
-- Here we provide a [Demo](http://47.94.105.69//hidekey/).
+- Here we provide a [Demo](http://47.94.105.69/hidekey/).
 
 - You can hide a secret image into a host image with private key in our Demo by clicking your mouse.
 
