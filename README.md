@@ -35,3 +35,6 @@ This repo is the official code for
 
 - You can hide a secret image into a host image with private key in our Demo by clicking your mouse.
 
+## Pre-trained model state
+a=0.44,  b=0.28
+
