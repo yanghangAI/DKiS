@@ -95,7 +95,7 @@ class DKiS_block(nn.Module):
 
 class DKiS(nn.Module):
 
-    def __init__(self, alpha_list, in_1=3, in_2=3):
+    def __init__(self, alpha_list, in_1=12, in_2=12):
         super().__init__()
 
         self.inv1 =  DKiS_block(in_1=in_1, in_2=in_2, alpha=alpha_list[0])
