@@ -30,7 +30,7 @@ DIV_VAL_PATH = '/home/Dataset/DIV2K/DIV2K_valid_HR'
 DIV_format_train = 'png'
 DIV_format_val = 'png'
 
-pub_TRAIN_PATH = '/home/Dataset/pub/train'
+pub_TRAIN_PATH = '/home/Dataset/pub/train' #Publaynet dataset
 pub_VAL_PATH = '/home/Dataset/pub/val'
 pub_format_train = 'png'
 pub_format_val = 'png'
