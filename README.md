@@ -36,5 +36,6 @@ This repo is the official code for
 - You can hide a secret image into a host image with private key in our Demo by clicking your mouse.
 
 ## Pre-trained model state
-a=0.44,  b=0.28
+- "model_state.pt" in "final_state" folder is a pre-trained model state trained on a subset of COCO2014 which contains 6,000 images
+- a=0.44,  b=0.28 for iwt and dwt
 
